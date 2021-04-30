@@ -1,12 +1,12 @@
 #root{
-    -fx-background-image: url("/Imgs/newbg.jpg");
+    -fx-background-image: url("/Imgs/WoodBg.jpg");
     -fx-background-repeat: stretch;
     -fx-background-position: center center;
     -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
 }
 
 #layout{
-    -fx-background-image: url("/Imgs/scene2Bg.jpg");
+    -fx-background-image: url("/Imgs/s2WoodBg.jpg");
     -fx-background-repeat: stretch;
     -fx-background-position: center center;
     -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
